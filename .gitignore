@@ -1,6 +1,7 @@
 # IDE & Build
-.build/
 .gradle/
+.idea/
+build/
 out/
 classes/
 *.iml
